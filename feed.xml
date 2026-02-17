@@ -3,30 +3,37 @@
   <channel>
     <title>Smith Daily Digest</title>
     <description>Personalized daily tech &amp; finance audio digest</description>
-    <link>https://fluxwave.github.io/podcast</link>
+    <link>https://fluxwave.github.io/podcast/episodes</link>
     <language>en-us</language>
     <itunes:author>Audio Digest Bot</itunes:author>
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — February 17, 2026</title>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-17.mp3" length="24647852" type="audio/mpeg"/>
+      <guid>https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-17.mp3</guid>
+      <itunes:duration>25:40</itunes:duration>
+    </item>
+    <item>
       <title>Daily Digest — February 16, 2026</title>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-16.mp3" length="18478508" type="audio/mpeg"/>
-      <guid>daily_show_2026-02-16</guid>
+      <guid>https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-16.mp3</guid>
       <itunes:duration>19:14</itunes:duration>
     </item>
     <item>
       <title>Daily Digest — February 15, 2026</title>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-15.mp3" length="22493996" type="audio/mpeg"/>
-      <guid>daily_show_2026-02-15</guid>
+      <guid>https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-15.mp3</guid>
       <itunes:duration>23:25</itunes:duration>
     </item>
     <item>
       <title>Daily Digest — February 13, 2026</title>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-13.mp3" length="2489900" type="audio/mpeg"/>
-      <guid>daily_show_2026-02-13</guid>
+      <guid>https://fluxwave.github.io/podcast/episodes/daily_show_2026-02-13.mp3</guid>
       <itunes:duration>2:35</itunes:duration>
     </item>
   </channel>
