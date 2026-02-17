@@ -6,6 +6,7 @@
     <link>https://fluxwave.github.io/podcast</link>
     <language>en-us</language>
     <itunes:author>Audio Digest Bot</itunes:author>
+    <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
       <title>Daily Digest — February 16, 2026</title>
